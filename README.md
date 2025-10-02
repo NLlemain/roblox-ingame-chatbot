@@ -1,2 +1,1 @@
-# roblox-ingame-chatbot
-A roblox in game chatbot  ready to use  after api key
+## get api key at "https://studio.nebius.com/settings/api-keys" 
